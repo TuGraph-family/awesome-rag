@@ -10,4 +10,7 @@ Collect typical RAG papers and systems.
 | 2024 | [Survey-2024](2024/survey.md) | [RAG-2024](2024/rag.md) | [Benchmark-2024](2024/benchmark.md) | AGENTiGraph, Adaptive-RAG, AgentRE, AgenticRAG, AntGroup-GraphRAG, AstuteRAG, AutoRAG, CRAG, Camel-GraphRAG, ChunkRAG, Class-RAG, CoTKR, CommunityKG-RAG, FILCO, FastGraphRAG, FlashRAG, FlexRAG, FoRAG, G-RAG, GRAG, GraphInsight, GraphRAG, GraphRAG-Local-UI, GraphReader, HippoRAG, HtmlRAG, HybridRAG, IM-RAG, KAG, Kotaemon, LA-RAG, LLM-Graph-Builder, LazyGraphRAG, LightRAG, M3DocRAG, MM-RAG, MRAG, Medical-Graph-RAG, MemoRAG, Meta-Knowledge-RAG, Multi-Meta-RAG, Nano-GraphRAG, OP-RAG, Open-RAG, PlanRAG, Plan×RAG, R4, RAE, RAFT, RAGCache, RAGChecker, RAGFlow-GraphRAG, RAGLAB, RAGViz, RAPTOR, RAT, RankRAG, RuAG, RuleRAG, SFR-RAG, Self-RAG, SimRAG, StructRAG, SubgraphRAG, T-RAG, TC-RAG, TableRAG, ThinkRAG, TurboRAG, VisRAG, W-RAG, iText2KG |
 
 
+# Project Ecosystem
+![](https://osgraph.com/png/graphs/project-ecosystem/github/awesome-rag/awesome-rag)
 
+Made with [osgraph.com](https://osgraph.com).
